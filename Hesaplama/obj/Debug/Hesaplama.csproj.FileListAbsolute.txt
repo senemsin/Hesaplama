@@ -1,0 +1,12 @@
+C:\Users\senem\source\repos\Hesaplama\Hesaplama\bin\Debug\Hesaplama.exe.config
+C:\Users\senem\source\repos\Hesaplama\Hesaplama\bin\Debug\Hesaplama.exe
+C:\Users\senem\source\repos\Hesaplama\Hesaplama\bin\Debug\Hesaplama.pdb
+C:\Users\senem\source\repos\Hesaplama\Hesaplama\obj\Debug\Hesaplama.csproj.AssemblyReference.cache
+C:\Users\senem\source\repos\Hesaplama\Hesaplama\obj\Debug\Hesaplama.Form1.resources
+C:\Users\senem\source\repos\Hesaplama\Hesaplama\obj\Debug\Hesaplama.Form3.resources
+C:\Users\senem\source\repos\Hesaplama\Hesaplama\obj\Debug\Hesaplama.Properties.Resources.resources
+C:\Users\senem\source\repos\Hesaplama\Hesaplama\obj\Debug\Hesaplama.csproj.GenerateResource.cache
+C:\Users\senem\source\repos\Hesaplama\Hesaplama\obj\Debug\Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\senem\source\repos\Hesaplama\Hesaplama\obj\Debug\Hesaplama.exe
+C:\Users\senem\source\repos\Hesaplama\Hesaplama\obj\Debug\Hesaplama.pdb
+C:\Users\senem\source\repos\Hesaplama\Hesaplama\obj\Debug\Hesaplama.Form2.resources
