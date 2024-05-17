@@ -20,18 +20,18 @@ namespace Hesaplama
         Form2 Form2 = new Form2();
         private void button1_Click(object sender, EventArgs e)
         {
-            Form2.Show();
+            Form2.ShowDialog();
 
         }
         Form3 Form3 = new Form3();
         private void button2_Click(object sender, EventArgs e)
         {
-            Form3.Show();
+            Form3.ShowDialog();
         }
         Form4 Form4 = new Form4();
         private void button3_Click(object sender, EventArgs e)
         {
-            Form4.Show();
+            Form4.ShowDialog();
         }
     }
 }

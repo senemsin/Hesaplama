@@ -16,5 +16,19 @@ namespace Hesaplama
         {
             InitializeComponent();
         }
+
+        private void btnhesapla_Click(object sender, EventArgs e)
+        {
+            // Değerleri Al
+            double baslangicSermayesi = Convert.ToDouble(txtbaslangicsermaye.Text);
+            double faizOrani = Convert.ToDouble(txtfaizorani.Text) / 100; // Yüzde cinsinden alındığı için 100'e bölünür
+            int yilSayisi = Convert.ToInt32(txtyilsayisi.Text);
+
+            // Faizi hesapla
+            double toplamPara = baslangicSermayesi * (1 + faizOrani * yilSayisi);
+
+            // Sonuç
+            MessageBox.Show($"Toplam Para: {toplamPara}");
+        }
     }
 }
