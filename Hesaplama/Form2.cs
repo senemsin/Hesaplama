@@ -21,11 +21,35 @@ namespace Hesaplama
 
         private void button1_Click(object sender, EventArgs e)
         {
-            double boy, kilo, vki;
-            boy = Convert.ToDouble(textBoy. Text);
-            kilo = Convert.ToDouble(textKilo.Text);
-            vki = kilo / (boy * boy);
-            label2.Text = vki.ToString();
+            // TextBox'lardan metni okuyun
+            string boyMetni = textBoy.Text;
+            string kiloMetni = textKilo.Text;
+
+            // Virgül içerip içermediğini kontrol edin (boy için)
+            if (!boyMetni.Contains(","))
+            {
+                MessageBox.Show("Boy girdisi virgüllü formatta olmalı (örneğin: 1,80).");
+                return;
+            }
+
+            // TextBox'ların dolu olup olmadığını kontrol edin
+            if (string.IsNullOrEmpty(boyMetni) || string.IsNullOrEmpty(kiloMetni))
+            {
+                MessageBox.Show("Lütfen boy ve kilo değerlerini girin.");
+                return;
+            }
+
+            // Double değerlere dönüştürün
+            double boy = Convert.ToDouble(boyMetni); // Virgülü noktaya çevirin
+            double kilo = Convert.ToDouble(kiloMetni);
+
+            // VKI'yi hesaplayın
+            double vki = kilo / (boy * boy);
+
+            // VKİ'yi etikette gösterin
+            label2.Text = vki.ToString(); // İki ondalık basamaklı olarak gösterin
+
+            // VKİ aralığına göre durumu belirleyin
             if (vki < 18)
             {
                 label4.Text = "Zayıf";
@@ -56,6 +80,25 @@ namespace Hesaplama
         private void Form2_Load(object sender, EventArgs e)
         {
 
+        }
+
+        private void textBoy_Validated(object sender, EventArgs e)
+        {
+
+        }
+        private void UygulamayiKapat()
+        {
+            Application.Exit();
+        }
+
+        private void btnkapat_Click(object sender, EventArgs e)
+        {
+            UygulamayiKapat();
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
     

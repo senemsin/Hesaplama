@@ -33,6 +33,7 @@
             this.vkigiris = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
+            this.btnkapat = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -51,7 +52,7 @@
             // 
             this.vkigiris.BackColor = System.Drawing.SystemColors.ButtonFace;
             this.vkigiris.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.vkigiris.Location = new System.Drawing.Point(234, 110);
+            this.vkigiris.Location = new System.Drawing.Point(234, 95);
             this.vkigiris.Name = "vkigiris";
             this.vkigiris.Size = new System.Drawing.Size(169, 79);
             this.vkigiris.TabIndex = 1;
@@ -63,7 +64,7 @@
             // 
             this.button2.BackColor = System.Drawing.SystemColors.ButtonFace;
             this.button2.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.button2.Location = new System.Drawing.Point(234, 208);
+            this.button2.Location = new System.Drawing.Point(234, 194);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(169, 79);
             this.button2.TabIndex = 2;
@@ -75,13 +76,27 @@
             // 
             this.button3.BackColor = System.Drawing.SystemColors.ButtonFace;
             this.button3.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.button3.Location = new System.Drawing.Point(234, 306);
+            this.button3.Location = new System.Drawing.Point(234, 288);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(169, 79);
             this.button3.TabIndex = 3;
-            this.button3.Text = "Faiz Hesaplama";
+            this.button3.Text = "İndirim Hesaplayıcı";
             this.button3.UseVisualStyleBackColor = false;
             this.button3.Click += new System.EventHandler(this.button3_Click);
+            // 
+            // btnkapat
+            // 
+            this.btnkapat.BackColor = System.Drawing.Color.Red;
+            this.btnkapat.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnkapat.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnkapat.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.btnkapat.Location = new System.Drawing.Point(499, 311);
+            this.btnkapat.Name = "btnkapat";
+            this.btnkapat.Size = new System.Drawing.Size(92, 56);
+            this.btnkapat.TabIndex = 4;
+            this.btnkapat.Text = "Uygulamayı Kapat";
+            this.btnkapat.UseVisualStyleBackColor = false;
+            this.btnkapat.Click += new System.EventHandler(this.btnkapat_Click);
             // 
             // Form1
             // 
@@ -89,13 +104,17 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.ClientSize = new System.Drawing.Size(632, 433);
+            this.ClientSize = new System.Drawing.Size(632, 423);
+            this.ControlBox = false;
+            this.Controls.Add(this.btnkapat);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.vkigiris);
             this.Controls.Add(this.label1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Hesaplama";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -107,6 +126,7 @@
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button btnkapat;
     }
 }
 

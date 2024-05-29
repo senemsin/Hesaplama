@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\senem\\source\\repos\\Hesaplama\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF03F0FE-1601-4DAF-86FC-5F78541D8789}|Hesaplama\\Hesaplama.csproj|C:\\Users\\senem\\source\\repos\\Hesaplama\\hesaplama\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EF03F0FE-1601-4DAF-86FC-5F78541D8789}|Hesaplama\\Hesaplama.csproj|solutionrelative:hesaplama\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF03F0FE-1601-4DAF-86FC-5F78541D8789}|Hesaplama\\Hesaplama.csproj|c:\\users\\senem\\source\\repos\\hesaplama\\hesaplama\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF03F0FE-1601-4DAF-86FC-5F78541D8789}|Hesaplama\\Hesaplama.csproj|solutionrelative:hesaplama\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF03F0FE-1601-4DAF-86FC-5F78541D8789}|Hesaplama\\Hesaplama.csproj|C:\\Users\\senem\\source\\repos\\Hesaplama\\hesaplama\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EF03F0FE-1601-4DAF-86FC-5F78541D8789}|Hesaplama\\Hesaplama.csproj|solutionrelative:hesaplama\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{EF03F0FE-1601-4DAF-86FC-5F78541D8789}|Hesaplama\\Hesaplama.csproj|c:\\users\\senem\\source\\repos\\hesaplama\\hesaplama\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF03F0FE-1601-4DAF-86FC-5F78541D8789}|Hesaplama\\Hesaplama.csproj|solutionrelative:hesaplama\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF03F0FE-1601-4DAF-86FC-5F78541D8789}|Hesaplama\\Hesaplama.csproj|C:\\Users\\senem\\source\\repos\\Hesaplama\\hesaplama\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF03F0FE-1601-4DAF-86FC-5F78541D8789}|Hesaplama\\Hesaplama.csproj|solutionrelative:hesaplama\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF03F0FE-1601-4DAF-86FC-5F78541D8789}|Hesaplama\\Hesaplama.csproj|C:\\Users\\senem\\source\\repos\\Hesaplama\\hesaplama\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EF03F0FE-1601-4DAF-86FC-5F78541D8789}|Hesaplama\\Hesaplama.csproj|c:\\users\\senem\\source\\repos\\hesaplama\\hesaplama\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF03F0FE-1601-4DAF-86FC-5F78541D8789}|Hesaplama\\Hesaplama.csproj|solutionrelative:hesaplama\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF03F0FE-1601-4DAF-86FC-5F78541D8789}|Hesaplama\\Hesaplama.csproj|C:\\Users\\senem\\source\\repos\\Hesaplama\\hesaplama\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF03F0FE-1601-4DAF-86FC-5F78541D8789}|Hesaplama\\Hesaplama.csproj|solutionrelative:hesaplama\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF03F0FE-1601-4DAF-86FC-5F78541D8789}|Hesaplama\\Hesaplama.csproj|C:\\Users\\senem\\source\\repos\\Hesaplama\\hesaplama\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF03F0FE-1601-4DAF-86FC-5F78541D8789}|Hesaplama\\Hesaplama.csproj|solutionrelative:hesaplama\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF03F0FE-1601-4DAF-86FC-5F78541D8789}|Hesaplama\\Hesaplama.csproj|C:\\Users\\senem\\source\\repos\\Hesaplama\\hesaplama\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF03F0FE-1601-4DAF-86FC-5F78541D8789}|Hesaplama\\Hesaplama.csproj|solutionrelative:hesaplama\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF03F0FE-1601-4DAF-86FC-5F78541D8789}|Hesaplama\\Hesaplama.csproj|C:\\Users\\senem\\source\\repos\\Hesaplama\\hesaplama\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -35,8 +31,20 @@
       "RelativeMoniker": "D:0:0:{EF03F0FE-1601-4DAF-86FC-5F78541D8789}|Hesaplama\\Hesaplama.csproj|solutionrelative:hesaplama\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF03F0FE-1601-4DAF-86FC-5F78541D8789}|Hesaplama\\Hesaplama.csproj|C:\\Users\\senem\\source\\repos\\Hesaplama\\hesaplama\\form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EF03F0FE-1601-4DAF-86FC-5F78541D8789}|Hesaplama\\Hesaplama.csproj|c:\\users\\senem\\source\\repos\\hesaplama\\hesaplama\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF03F0FE-1601-4DAF-86FC-5F78541D8789}|Hesaplama\\Hesaplama.csproj|solutionrelative:hesaplama\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF03F0FE-1601-4DAF-86FC-5F78541D8789}|Hesaplama\\Hesaplama.csproj|c:\\users\\senem\\source\\repos\\hesaplama\\hesaplama\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF03F0FE-1601-4DAF-86FC-5F78541D8789}|Hesaplama\\Hesaplama.csproj|solutionrelative:hesaplama\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF03F0FE-1601-4DAF-86FC-5F78541D8789}|Hesaplama\\Hesaplama.csproj|c:\\users\\senem\\source\\repos\\hesaplama\\hesaplama\\form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF03F0FE-1601-4DAF-86FC-5F78541D8789}|Hesaplama\\Hesaplama.csproj|solutionrelative:hesaplama\\form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF03F0FE-1601-4DAF-86FC-5F78541D8789}|Hesaplama\\Hesaplama.csproj|c:\\users\\senem\\source\\repos\\hesaplama\\hesaplama\\form4.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{EF03F0FE-1601-4DAF-86FC-5F78541D8789}|Hesaplama\\Hesaplama.csproj|solutionrelative:hesaplama\\form4.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,54 +62,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
+              "Title": "Form4.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\senem\\source\\repos\\Hesaplama\\Hesaplama\\Form4.cs",
+              "RelativeDocumentMoniker": "Hesaplama\\Form4.cs",
+              "ToolTip": "C:\\Users\\senem\\source\\repos\\Hesaplama\\Hesaplama\\Form4.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Hesaplama\\Form4.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:50:07.534Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form3.cs",
               "DocumentMoniker": "C:\\Users\\senem\\source\\repos\\Hesaplama\\Hesaplama\\Form3.cs",
               "RelativeDocumentMoniker": "Hesaplama\\Form3.cs",
               "ToolTip": "C:\\Users\\senem\\source\\repos\\Hesaplama\\Hesaplama\\Form3.cs",
               "RelativeToolTip": "Hesaplama\\Form3.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAqwB8AAAAbAAAA",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAmwHAAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T11:06:57.55Z"
+              "WhenOpened": "2024-05-17T11:06:57.55Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Form4.cs",
               "DocumentMoniker": "C:\\Users\\senem\\source\\repos\\Hesaplama\\Hesaplama\\Form4.cs",
               "RelativeDocumentMoniker": "Hesaplama\\Form4.cs",
               "ToolTip": "C:\\Users\\senem\\source\\repos\\Hesaplama\\Hesaplama\\Form4.cs",
               "RelativeToolTip": "Hesaplama\\Form4.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAA4wBwAAAAAAAAA",
+              "ViewState": "AQIAADsAAAAAAAAAAAAmwEYAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T11:55:56.164Z"
+              "WhenOpened": "2024-05-17T11:55:56.164Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form2.cs",
-              "DocumentMoniker": "C:\\Users\\senem\\source\\repos\\Hesaplama\\Hesaplama\\Form2.cs",
-              "RelativeDocumentMoniker": "Hesaplama\\Form2.cs",
-              "ToolTip": "C:\\Users\\senem\\source\\repos\\Hesaplama\\Hesaplama\\Form2.cs",
-              "RelativeToolTip": "Hesaplama\\Form2.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T12:06:28.314Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Form3.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\senem\\source\\repos\\Hesaplama\\Hesaplama\\Form3.cs",
-              "RelativeDocumentMoniker": "Hesaplama\\Form3.cs",
-              "ToolTip": "C:\\Users\\senem\\source\\repos\\Hesaplama\\Hesaplama\\Form3.cs [Tasar\u0131m]",
-              "RelativeToolTip": "Hesaplama\\Form3.cs [Tasar\u0131m]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T11:49:22.289Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\senem\\source\\repos\\Hesaplama\\Hesaplama\\Form1.cs",
               "RelativeDocumentMoniker": "Hesaplama\\Form1.cs",
@@ -113,50 +112,91 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\senem\\source\\repos\\Hesaplama\\Hesaplama\\Form2.cs",
+              "RelativeDocumentMoniker": "Hesaplama\\Form2.cs",
+              "ToolTip": "C:\\Users\\senem\\source\\repos\\Hesaplama\\Hesaplama\\Form2.cs",
+              "RelativeToolTip": "Hesaplama\\Form2.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAmwGQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:06:28.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\senem\\source\\repos\\Hesaplama\\Hesaplama\\Form3.cs",
+              "RelativeDocumentMoniker": "Hesaplama\\Form3.cs",
+              "ToolTip": "C:\\Users\\senem\\source\\repos\\Hesaplama\\Hesaplama\\Form3.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Hesaplama\\Form3.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:49:22.289Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\senem\\source\\repos\\Hesaplama\\Hesaplama\\Form1.cs",
               "RelativeDocumentMoniker": "Hesaplama\\Form1.cs",
               "ToolTip": "C:\\Users\\senem\\source\\repos\\Hesaplama\\Hesaplama\\Form1.cs",
               "RelativeToolTip": "Hesaplama\\Form1.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAwCgAAAAMAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAqwB4AAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-14T11:53:22.63Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form4.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\senem\\source\\repos\\Hesaplama\\Hesaplama\\Form4.cs",
-              "RelativeDocumentMoniker": "Hesaplama\\Form4.cs",
-              "ToolTip": "C:\\Users\\senem\\source\\repos\\Hesaplama\\Hesaplama\\Form4.cs [Tasar\u0131m]",
-              "RelativeToolTip": "Hesaplama\\Form4.cs [Tasar\u0131m]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T11:50:07.534Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Form2.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\senem\\source\\repos\\Hesaplama\\Hesaplama\\Form2.cs",
               "RelativeDocumentMoniker": "Hesaplama\\Form2.cs",
               "ToolTip": "C:\\Users\\senem\\source\\repos\\Hesaplama\\Hesaplama\\Form2.cs [Tasar\u0131m]",
               "RelativeToolTip": "Hesaplama\\Form2.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T11:49:03.283Z"
+              "WhenOpened": "2024-05-14T11:49:03.283Z",
+              "EditorCaption": " [Tasar\u0131m]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\senem\\source\\repos\\Hesaplama\\Hesaplama\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "Hesaplama\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\senem\\source\\repos\\Hesaplama\\Hesaplama\\Form2.Designer.cs",
+              "RelativeToolTip": "Hesaplama\\Form2.Designer.cs",
+              "ViewState": "AQIAAKoAAAAAAAAAAAArwLcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T16:49:37.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Form4.Designer.cs",
               "DocumentMoniker": "C:\\Users\\senem\\source\\repos\\Hesaplama\\Hesaplama\\Form4.Designer.cs",
               "RelativeDocumentMoniker": "Hesaplama\\Form4.Designer.cs",
               "ToolTip": "C:\\Users\\senem\\source\\repos\\Hesaplama\\Hesaplama\\Form4.Designer.cs",
               "RelativeToolTip": "Hesaplama\\Form4.Designer.cs",
-              "ViewState": "AQIAAFcAAAAAAAAAAAAuwHAAAAArAAAA",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAuwGsAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T12:07:56.035Z"
+              "WhenOpened": "2024-05-17T12:07:56.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form4.resx",
+              "DocumentMoniker": "C:\\Users\\senem\\source\\repos\\Hesaplama\\Hesaplama\\Form4.resx",
+              "RelativeDocumentMoniker": "Hesaplama\\Form4.resx",
+              "ToolTip": "C:\\Users\\senem\\source\\repos\\Hesaplama\\Hesaplama\\Form4.resx",
+              "RelativeToolTip": "Hesaplama\\Form4.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-28T14:15:11.284Z",
+              "EditorCaption": ""
             }
           ]
         }
