@@ -42,7 +42,7 @@
             // txturunfiyati
             // 
             this.txturunfiyati.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.txturunfiyati.Location = new System.Drawing.Point(229, 122);
+            this.txturunfiyati.Location = new System.Drawing.Point(232, 36);
             this.txturunfiyati.Name = "txturunfiyati";
             this.txturunfiyati.Size = new System.Drawing.Size(117, 38);
             this.txturunfiyati.TabIndex = 0;
@@ -50,7 +50,7 @@
             // txtindirimorani
             // 
             this.txtindirimorani.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.txtindirimorani.Location = new System.Drawing.Point(229, 205);
+            this.txtindirimorani.Location = new System.Drawing.Point(232, 115);
             this.txtindirimorani.Name = "txtindirimorani";
             this.txtindirimorani.Size = new System.Drawing.Size(117, 38);
             this.txtindirimorani.TabIndex = 1;
@@ -59,7 +59,7 @@
             // 
             this.lblindirimlifiyat.AutoSize = true;
             this.lblindirimlifiyat.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.lblindirimlifiyat.Location = new System.Drawing.Point(170, 309);
+            this.lblindirimlifiyat.Location = new System.Drawing.Point(227, 300);
             this.lblindirimlifiyat.Name = "lblindirimlifiyat";
             this.lblindirimlifiyat.Size = new System.Drawing.Size(0, 29);
             this.lblindirimlifiyat.TabIndex = 2;
@@ -67,9 +67,9 @@
             // btnHesapla
             // 
             this.btnHesapla.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.btnHesapla.Location = new System.Drawing.Point(305, 295);
+            this.btnHesapla.Location = new System.Drawing.Point(232, 201);
             this.btnHesapla.Name = "btnHesapla";
-            this.btnHesapla.Size = new System.Drawing.Size(129, 56);
+            this.btnHesapla.Size = new System.Drawing.Size(117, 56);
             this.btnHesapla.TabIndex = 3;
             this.btnHesapla.Text = "Hesapla";
             this.btnHesapla.UseVisualStyleBackColor = true;
@@ -79,7 +79,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Times New Roman", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label1.Location = new System.Drawing.Point(49, 127);
+            this.label1.Location = new System.Drawing.Point(52, 41);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(159, 33);
             this.label1.TabIndex = 4;
@@ -89,7 +89,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label2.Location = new System.Drawing.Point(25, 208);
+            this.label2.Location = new System.Drawing.Point(28, 122);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(183, 31);
             this.label2.TabIndex = 5;
@@ -100,11 +100,11 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label3.Location = new System.Drawing.Point(25, 295);
+            this.label3.Location = new System.Drawing.Point(12, 297);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(107, 93);
+            this.label3.Size = new System.Drawing.Size(174, 62);
             this.label3.TabIndex = 6;
-            this.label3.Text = "İndirimli\r\nFiyat\r\n\r\n";
+            this.label3.Text = "İndirimli Fiyat\r\n\r\n";
             // 
             // button1
             // 
