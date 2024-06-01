@@ -10,4 +10,4 @@ C:\Users\senem\source\repos\Hesaplama\Hesaplama\obj\Debug\Hesaplama.csproj.CoreC
 C:\Users\senem\source\repos\Hesaplama\Hesaplama\obj\Debug\Hesaplama.exe
 C:\Users\senem\source\repos\Hesaplama\Hesaplama\obj\Debug\Hesaplama.pdb
 C:\Users\senem\source\repos\Hesaplama\Hesaplama\obj\Debug\Hesaplama.Form2.resources
-C:\Users\senem\source\repos\Hesaplama\Hesaplama\obj\Debug\Hesaplama.Form4.resources
+C:\Users\senem\source\repos\Hesaplama\Hesaplama\obj\Debug\Hesaplama.Form5.resources

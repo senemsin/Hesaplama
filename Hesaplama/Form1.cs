@@ -31,13 +31,8 @@ namespace Hesaplama
            
             Form3.ShowDialog();
         }
-        Form4 Form4 = new Form4();
-        private void button3_Click(object sender, EventArgs e)
-        {
-            
-            Form4.ShowDialog();
-            
-        }
+        Form5 Form5 = new Form5();
+
 
         private void Form1_Load(object sender, EventArgs e)
         {
@@ -58,6 +53,11 @@ namespace Hesaplama
         private void btnkapat_Click(object sender, EventArgs e)
         {
             UygulamayiKapat();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Form5.ShowDialog();
         }
     }
 }
